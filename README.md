@@ -1,2 +1,2 @@
 # simple-calculator
-simple calculator made using phyton tkinter
+simple calculator gui made using phyton tkinter
